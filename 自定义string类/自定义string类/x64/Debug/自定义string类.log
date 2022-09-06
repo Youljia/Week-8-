@@ -1,0 +1,7 @@
+﻿  MyString.cpp
+E:\C++语言学习\自定义string类\自定义string类\MyString.cpp(11,23): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\C++语言学习\自定义string类\自定义string类\MyString.cpp(40,23): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\C++语言学习\自定义string类\自定义string类\MyString.cpp(84,34): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  源.cpp
+  正在生成代码...
+  自定义string类.vcxproj -> E:\C++语言学习\自定义string类\x64\Debug\自定义string类.exe
